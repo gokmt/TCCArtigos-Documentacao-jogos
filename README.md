@@ -8,6 +8,8 @@
 | ------ | ------ |
 | Integração do Processo Industrial de Design de Jogos com o modelo MDA | [Link 01][Link01] |
 | Game Design Document: Realizando a documentação do seu projeto de Jogo Digital | [Link 02][Link02] |
+| Desenvolvimento de Jogos: Como documentar seu código | [Link 03][Link03] |
 
    [Link01]: <http://www.sbgames.org/sbgames2014/app/webroot/files/papers/industry/full/101-industryfullpages.pdf>
    [Link02]: <https://www.fabricadejogos.net/posts/artigo-game-design-document-realizando-a-documentacao-do-seu-projeto-de-jogo-digital/>
+   [Link03]: <https://www.devmedia.com.br/desenvolvimento-de-jogos-como-documentar-seu-codigo/29565>
