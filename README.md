@@ -11,9 +11,11 @@
 | Desenvolvimento de Jogos: Como documentar seu código | [Link 03][Link03] |
 | Metodologia OriGame: um processo de desenvolvimento de jogos | [Link 04][Link04] |
 | Análise e Desenvolvimento de Documentação para Jogos | [Link 05][Link05] |
+| Criação de um modelo conceitual para Documentação de Game Design | [Link 06][Link06] |
 
    [Link01]: <http://www.sbgames.org/sbgames2014/app/webroot/files/papers/industry/full/101-industryfullpages.pdf>
    [Link02]: <https://www.fabricadejogos.net/posts/artigo-game-design-document-realizando-a-documentacao-do-seu-projeto-de-jogo-digital/>
    [Link03]: <https://www.devmedia.com.br/desenvolvimento-de-jogos-como-documentar-seu-codigo/29565>
    [Link04]: <http://sbgames.org/sbgames2012/proceedings/papers/artedesign/AD_Full16.pdf>
    [Link05]: <https://cepein.femanet.com.br/BDigital/arqPics/1511320488P631.pdf>
+   [Link06]: <http://www.sbgames.org/sbgames2016/downloads/anais/157033.pdf>
