@@ -14,6 +14,7 @@
 | Criação de um modelo conceitual para Documentação de Game Design| [Link 06][Link06] |
 | A Step By Step Guide On Making A Game Design Document| [Link 07][Link07] |
 | Game Design Document| [Link 08][Link08] |
+| Template Game Design Document (GDD)| [Link 09][Link09] |
 
    [Link01]: <http://www.sbgames.org/sbgames2014/app/webroot/files/papers/industry/full/101-industryfullpages.pdf>
    [Link02]: <https://www.fabricadejogos.net/posts/artigo-game-design-document-realizando-a-documentacao-do-seu-projeto-de-jogo-digital/>
@@ -23,4 +24,5 @@
    [Link06]: <http://www.sbgames.org/sbgames2016/downloads/anais/157033.pdf>
    [Link07]: <https://www.tekrevol.com/blogs/making-a-game-design-document/>
    [Link08]: <http://marceltau.com/files/Arcana_Project_GDD.pdf>
+   [Link09]: <https://files.cercomp.ufg.br/weby/up/151/o/PRODUTO_TECNICO_Cristina_APP_BIM_Game_Design.pdf>
 
