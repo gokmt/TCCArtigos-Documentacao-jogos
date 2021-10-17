@@ -16,6 +16,7 @@
 | Game Design Document| [Link 08][Link08] |
 | Template Game Design Document (GDD)| [Link 09][Link09] |
 | Short game design document (SGDD)| [Link 10][Link10] |
+| GDD Desde Dentro: mitos e realidades| [Link 11][Link11] |
 
    [Link01]: <http://www.sbgames.org/sbgames2014/app/webroot/files/papers/industry/full/101-industryfullpages.pdf>
    [Link02]: <https://www.fabricadejogos.net/posts/artigo-game-design-document-realizando-a-documentacao-do-seu-projeto-de-jogo-digital/>
@@ -27,4 +28,5 @@
    [Link08]: <http://marceltau.com/files/Arcana_Project_GDD.pdf>
    [Link09]: <https://files.cercomp.ufg.br/weby/up/151/o/PRODUTO_TECNICO_Cristina_APP_BIM_Game_Design.pdf>
    [Link10]: <http://www.sbgames.org/sbgames2013/proceedings/artedesign/15-dt-paper_SGDD.pdf>
+   [Link11]: <https://digituma.uma.pt/bitstream/10400.13/1564/1/MestradoValeriaVition.pdf>
 
